@@ -878,7 +878,7 @@ export default function App() {
                   </div>
                   <div className="relative hidden lg:block">
                     <div className="relative z-10 w-full aspect-square rounded-[4rem] overflow-hidden shadow-2xl border-[12px] border-white">
-                      <img src="https://images.unsplash.com/photo-1581578731548-c64695cc6954?auto=format&fit=crop&q=80&w=1000" className="w-full h-full object-cover" alt="Home Care" />
+                      <img src="/images/pest-control/medium-shot-woman-cleaning-home.jpg" className="w-full h-full object-cover" alt="Home Care" />
                     </div>
                   </div>
                 </div>
