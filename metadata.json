@@ -1,0 +1,7 @@
+{
+  "name": "Neoi Home Services",
+  "description": "Industrial-grade premium home services platform with a 7-second express booking flow for Bangalore residents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
