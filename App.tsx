@@ -112,7 +112,7 @@ const VariantSelectionModal = ({ pkg, onClose, onSelect }: { pkg: PricingPackage
 
 // --- Painting Flow Component ---
 const PaintingFlow = ({ 
-  location, 
+  location,
   onClose, 
   cart, 
   onAddToCart, 
